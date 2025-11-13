@@ -16,4 +16,4 @@ It simulates API traffic, detects anomalies using an **ensemble of Isolation For
    # OR
    source venv/bin/activate  # For Linux/Mac
 4. pip install -r requirements.txt
-4. .\run_demo.bat
+5. .\run_demo.bat
