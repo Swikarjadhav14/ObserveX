@@ -9,11 +9,11 @@ It simulates API traffic, detects anomalies using an **ensemble of Isolation For
 
 ### 🔹 Step 1: Clone Repository
 ```bash
-git clone https://github.com/Swikarjadhav14/ObserveX.git
-cd ObserveX
-python -m venv venv
-venv\Scripts\activate     # For Windows
-# OR
-source venv/bin/activate  # For Linux/Mac
-pip install -r requirements.txt
-.\run_demo.bat
+1. git clone https://github.com/Swikarjadhav14/ObserveX.git
+   cd ObserveX
+2. python -m venv venv
+3. venv\Scripts\activate     # For Windows
+   # OR
+   source venv/bin/activate  # For Linux/Mac
+4. pip install -r requirements.txt
+4. .\run_demo.bat
