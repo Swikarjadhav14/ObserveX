@@ -7,7 +7,6 @@ It simulates API traffic, detects anomalies using an **ensemble of Isolation For
 
 ## ⚙️ Quick Setup & Run
 
-### 🔹 Step 1: Clone Repository
 ```bash
 1. git clone https://github.com/Swikarjadhav14/ObserveX.git
    cd ObserveX
